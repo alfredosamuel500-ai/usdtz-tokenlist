@@ -1,0 +1,15 @@
+{
+  "name": "USDTZ Token List",
+  "logoURI": "https://usdtz.cloud/logo.png",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xAB190D62CE9A588D69788B11AB8234b425521ABf",
+      "name": "USDTZ",
+      "symbol": "USDTZ",
+      "decimals": 18,
+      "logoURI": "https://usdtz.cloud/logo.png"
+    }
+  ]
+}
