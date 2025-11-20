@@ -1,0 +1,18 @@
+{
+  "name": "USDTZ",
+  "symbol": "USDTZ",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xAB190D62CE9A588D69788B11AB8234b425521ABf",
+  "links": {
+    "website": "https://usdtz.cloud",
+    "github": "https://github.com/alfredosamuel500-ai/usdtz-tokenlist"
+  },
+  "description": "USDTZ é uma stablecoin descentralizada projetada para pagamentos rápidos, seguros e eficientes na BNB Chain.",
+  "tags": [
+    "stablecoin",
+    "payments",
+    "defi"
+  ]
+}
