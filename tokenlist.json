@@ -1,6 +1,7 @@
+
 {
-  "name": "USDTZ Token List",
-  "logoURI": "https://usdtz.cloud/logo.png",
+  "name": "USDZ Token List",
+  "logoURI": "https://raw.githubusercontent.com/alfredosamuel500-ai/usdtz-tokenlist/main/assets/56/0xAB190D62CE9A588D69788B11AB8234b425521ABf/logo.png",
   "timestamp": "2025-01-01T00:00:00+00:00",
   "version": {
     "major": 1,
@@ -10,11 +11,11 @@
   "tokens": [
     {
       "chainId": 56,
-      "address": "0xAB190D62CE9A588D69788B11AB8234B425521ABf",
-      "name": "USDTZ",
-      "symbol": "USDTZ",
+      "address": "0xAB190D62CE9A588D69788B11AB8234b425521ABf",
+      "name": "USDZ Token",
+      "symbol": "USDZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alfredosamuel500-ai/usdtz-tokenlist/main/assets/56/0xAB190D62CE9A588D69788B11AB8234B425521ABf/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/alfredosamuel500-ai/usdtz-tokenlist/main/assets/56/0xAB190D62CE9A588D69788B11AB8234b425521ABf/logo.png"
     }
   ]
 }
